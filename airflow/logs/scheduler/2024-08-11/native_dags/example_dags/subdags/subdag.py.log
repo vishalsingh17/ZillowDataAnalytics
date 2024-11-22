@@ -1,0 +1,40 @@
+[2024-08-11T08:29:34.612+0000] {processor.py:161} INFO - Started process (PID=2850) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:29:34.613+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:29:34.614+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:29:34.614+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:29:34.616+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:29:34.626+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.020 seconds
+[2024-08-11T08:30:29.601+0000] {processor.py:161} INFO - Started process (PID=3012) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:30:29.602+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:30:29.605+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:30:29.604+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:30:29.606+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:30:29.618+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2024-08-11T08:31:12.882+0000] {processor.py:161} INFO - Started process (PID=3227) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:31:12.885+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:31:12.886+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:31:12.886+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:31:12.888+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:31:12.899+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.023 seconds
+[2024-08-11T08:31:54.292+0000] {processor.py:161} INFO - Started process (PID=3279) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:31:54.293+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:31:54.296+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:31:54.295+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:31:54.297+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:31:54.307+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2024-08-11T08:32:33.951+0000] {processor.py:161} INFO - Started process (PID=3319) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:32:33.952+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:32:33.954+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:32:33.954+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:32:33.957+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:32:33.967+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2024-08-11T08:33:13.946+0000] {processor.py:161} INFO - Started process (PID=3362) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:33:13.948+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:33:13.949+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:33:13.949+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:33:13.952+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:33:13.961+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.021 seconds
+[2024-08-11T08:33:50.723+0000] {processor.py:161} INFO - Started process (PID=3403) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:33:50.725+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:33:50.728+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:33:50.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:33:50.729+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:33:50.739+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
+[2024-08-11T08:34:31.257+0000] {processor.py:161} INFO - Started process (PID=3447) to work on /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:34:31.259+0000] {processor.py:830} INFO - Processing file /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-08-11T08:34:31.261+0000] {logging_mixin.py:188} INFO - [2024-08-11T08:34:31.261+0000] {dagbag.py:545} INFO - Filling up the DagBag from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:34:31.264+0000] {processor.py:842} WARNING - No viable dags retrieved from /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-08-11T08:34:31.274+0000] {processor.py:183} INFO - Processing /home/ubuntu/zilloapi/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.022 seconds
